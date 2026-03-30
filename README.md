@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 | Detail | Info |
 |---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 AtliQ Mart, a growing FMCG company operating across 3 cities in India, began **losing key customer contracts** due to consistently poor service levels. Management had no visibility into why orders were failing — whether deliveries were late, incomplete, or both.
 
@@ -32,9 +32,9 @@ This dashboard was built to **diagnose the root cause** across customers, cities
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
-> 📸 Screenshots below — download the Excel file for full interactivity
+> Screenshots below — download the Excel file for full interactivity
 
 ### Overview Page
 ![Overview](screenshots/overview_1.png)
@@ -79,7 +79,7 @@ dim_targets_orders ──→  fact_orders_aggregate
 
 ---
 
-## 📏 Metrics Glossary
+## Metrics Glossary
 
 | Metric | Full Name | Definition |
 |---|---|---|
@@ -92,12 +92,12 @@ dim_targets_orders ──→  fact_orders_aggregate
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
-### 1. 🚨 Critical — OTIF Only 29.02% vs 65.91% Target
+### 1.Critical — OTIF Only 29.02% vs 65.91% Target
 The overall OTIF is **less than half the target** with a gap of **-36.89%**. This means 7 out of 10 orders are failing to meet both timing and quantity requirements simultaneously.
 
-### 2. ⚠️ At-Risk Customers
+### 2.At-Risk Customers
 Three customers have critically low OTIF scores:
 
 | Customer | OTIF% |
@@ -108,7 +108,7 @@ Three customers have critically low OTIF scores:
 
 These customers are at highest risk of contract non-renewal.
 
-### 3. 🏙️ City Performance
+### 3.City Performance
 | City | OTIF% |
 |---|---|
 | Vadodara | 27.78% ← Lowest |
@@ -117,15 +117,15 @@ These customers are at highest risk of contract non-renewal.
 
 All 3 cities are severely below target — this is a company-wide issue, not city-specific.
 
-### 4. 📦 Product Alert
+### 4.Product Alert
 **AM Butter 250** has the lowest Line Fill Rate at **63.52%** — indicating consistent stock or supply planning issues for this SKU.
 
-### 5. 💡 VoFR vs LiFR — The Hidden Problem
+### 5.VoFR vs LiFR — The Hidden Problem
 VoFR at **96.59%** looks great on the surface — but LiFR is only **65.96%**. This means AtliQ Mart ships most of the **volume** but frequently fails to fulfill **complete order lines**. Partial shipments are masking the real fulfillment problem.
 
 ---
 
-## 🛠️ Tools & Excel Skills Demonstrated
+## Tools & Excel Skills Demonstrated
 
 | Category | Skills |
 |---|---|
@@ -143,12 +143,12 @@ VoFR at **96.59%** looks great on the surface — but LiFR is only **65.96%**. T
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 atliq-mart-supply-chain-excel/
 │
-├── 📊 AtliQ_Mart_Dashboard.xlsx       ← Main dashboard file
+├── AtliQ_Mart_Dashboard.xlsx       ← Main dashboard file
 ├── 📁 data/
 │   ├── dim_customers.csv
 │   ├── dim_products.csv
@@ -169,7 +169,7 @@ atliq-mart-supply-chain-excel/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Download** `AtliQ_Mart_Dashboard.xlsx`
 2. Open in **Microsoft Excel** (2016 or later recommended)
@@ -183,18 +183,18 @@ atliq-mart-supply-chain-excel/
 
 ---
 
-## 🎓 Certificate
+## Certificate
 
 This project was completed as part of the **Codebasics Resume Project Challenge C2 — FMCG Supply Chain**.
 
-📜 **Course:** Excel: Mother of Business Intelligence  
-🏫 **Platform:** Codebasics  
-📅 **Completed:** March 22, 2026  
-🔑 **GUID:** CB-51-556403
+ **Course:** Excel: Mother of Business Intelligence  
+**Platform:** Codebasics  
+**Completed:** March 22, 2026  
+**GUID:** CB-51-556403
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 **Vidhya Rasu** — Data Analyst | SQL · Power BI · Excel · Python  
 📍 Dallas, TX | US Citizen  
