@@ -198,7 +198,7 @@ This project was completed as part of the **Codebasics Resume Project Challenge 
 
 **Vidhya Rasu** — Data Analyst | SQL · Power BI · Excel · Python  
 📍 Dallas, TX | US Citizen  
-🔗 [LinkedIn](https://www.linkedin.com/in/vidhya-rasu-mba-74a9b31a5) · [GitHub](https://github.com/vrasup)
+🔗 [LinkedIn](https://www.linkedin.com/posts/vidhya-rasu-74a9b31a5_codebasics-dataanalytics-excel-activity-7445489857662988288-b_0k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAGD2oBe0MTbjIdTWmtLFyFNgz6dcAwWHA) · [GitHub](https://github.com/vrasup)
 
 ---
 
